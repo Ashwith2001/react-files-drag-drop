@@ -1,6 +1,6 @@
 {
   "name": "react-files-drag-drop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the react drag and drop component.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -43,5 +43,9 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@rollup/plugin-commonjs": "^25.0.7",
     "prop-types": "^15.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashwith2001/react-files-drag-drop"
   }
 }
