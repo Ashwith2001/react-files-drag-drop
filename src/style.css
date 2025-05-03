@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.draganddrop {
+  width: fit-content;
+  text-align: center;
+  border: 1px dashed black;
+  border-radius: 8px;
+  padding: 5rem;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.draganddrop.dragOver{
+  border-color: blue;
+  border-width: 2px;
+}
+.draganddrop:hover {
+    border-color: blue;
+    border-width: 2px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+.main-color{
+    color: blue;
+}
